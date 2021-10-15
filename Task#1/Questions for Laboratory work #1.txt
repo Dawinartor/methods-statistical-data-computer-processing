@@ -1,0 +1,5 @@
+1. What does the line chart show?
+2. What does the standard histogram show? How to build the histogram?
+3. What does the cumulative histogram show? How to build the cumulative histogram?
+4. Definition of mean, median, standard deviation, variance, skewness, kurtosis and confidence limits for mean.
+5. Definition of quantile.
